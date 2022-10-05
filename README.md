@@ -1,4 +1,4 @@
-# TechCheck2 (Variables, Operators, Input and Output)
+# TechCheck3 (Decisions)
 )
 ## PROG1700- Logic and Programming 
 Tax Withheld Calculator

@@ -1,5 +1,4 @@
 # TechCheck3 (Decisions)
-)
 ## PROG1700- Logic and Programming 
 Tax Withheld Calculator
 Please refer to the instructions on BrightSpace for details

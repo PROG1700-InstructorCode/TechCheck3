@@ -1,8 +1,4 @@
 # TechCheck3 (Decisions)
 ## PROG1700- Logic and Programming 
-Tax Withheld Calculator
-Please refer to the instructions on BrightSpace for details
- 
-Submission Instructions
-Once your program is complete or the writing period has expired, commit and push your completed program code to your GitHub repository and upload a text file (.txt) containing the Commit ID to the Tech Check assignment dropbox on Brightspace. Don’t forget to enter an upload comment and hit the Submit buttons! Make sure you confirm that the instructor has received the file before you leave the class.
-
+Grade Point Calculator
+Create a console-based program that will take a letter grade, such as B+ or C, and convert it to its corresponding numeric value. It will use two prompts, one for the letter grade and a second for the modifier, if any (+ or -), and calculate and then output the proper number grade.
